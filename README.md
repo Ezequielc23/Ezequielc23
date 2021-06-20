@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezequielc23
-- 👀 I’m interested in Data Science/Software Development
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Big Data
+- 🌱 I’m currently learning the Hadoop Ecosystem
 - 💞️ I’m looking to collaborate on Big Data/Data Science/AI projects
 - 📫 How to reach me Ezequiel.Carrillo@protonmail.com
 
